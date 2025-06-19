@@ -1,6 +1,7 @@
 import sys
 
-__version__ = '1.11.0'
+# Modified by GR – New release
+__version__ = '2.0.0'
 
 # helper containing a python 3 related warning
 # if this is run with python 2
